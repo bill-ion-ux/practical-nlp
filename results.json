@@ -1,0 +1,462 @@
+{
+    "kind": "customsearch#search",
+    "url": {
+        "type": "application/json",
+        "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+    },
+    "queries": {
+        "request": [
+            {
+                "title": "Google Custom Search - mosque near me",
+                "totalResults": "107000000",
+                "searchTerms": "mosque near me",
+                "count": 10,
+                "startIndex": 1,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "a15f324588ce44402"
+            }
+        ],
+        "nextPage": [
+            {
+                "title": "Google Custom Search - mosque near me",
+                "totalResults": "107000000",
+                "searchTerms": "mosque near me",
+                "count": 10,
+                "startIndex": 11,
+                "inputEncoding": "utf8",
+                "outputEncoding": "utf8",
+                "safe": "off",
+                "cx": "a15f324588ce44402"
+            }
+        ]
+    },
+    "context": {
+        "title": "web check"
+    },
+    "searchInformation": {
+        "searchTime": 0.396425,
+        "formattedSearchTime": "0.40",
+        "totalResults": "107000000",
+        "formattedTotalResults": "107,000,000"
+    },
+    "items": [
+        {
+            "kind": "customsearch#result",
+            "title": "The only mosque near me does not speak my language, what do I ...",
+            "htmlTitle": "The only <b>mosque near me</b> does not speak my language, what do I ...",
+            "link": "https://www.reddit.com/r/islam/comments/1m8vo27/the_only_mosque_near_me_does_not_speak_my/",
+            "displayLink": "www.reddit.com",
+            "snippet": "Jul 25, 2025 ... Go there, maybe read surah al Kahf and pray with them and go home. Maybe ask, if there is someone who can tell you what was the ...",
+            "htmlSnippet": "Jul 25, 2025 <b>...</b> Go there, maybe read surah al Kahf and pray with them and go home. Maybe ask, if there is someone who can tell you what was the&nbsp;...",
+            "formattedUrl": "https://www.reddit.com/.../the_only_mosque_near_me_does_not_speak_m...",
+            "htmlFormattedUrl": "https://www.reddit.com/.../the_only_<b>mosque</b>_<b>near</b>_<b>me</b>_does_not_speak_m...",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "theme-color": "#000000",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "apple-mobile-web-app-capable": "yes",
+                        "msapplication-navbutton-color": "#000000"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Grand Mosque Of Paris",
+            "htmlTitle": "Grand <b>Mosque</b> Of Paris",
+            "link": "https://www.tripadvisor.com/Attraction_Review-g187147-d232120-Reviews-Grand_Mosque_Of_Paris-Paris_Ile_de_France.html",
+            "displayLink": "www.tripadvisor.com",
+            "snippet": "The Wudu area and the bathrooms are clean. Spent about 45 minutes here taking in the positive vibe from the ambience around me. Read more.",
+            "htmlSnippet": "The Wudu area and the bathrooms are clean. Spent about 45 minutes here taking in the positive vibe from the ambience <b>around me</b>. Read more.",
+            "formattedUrl": "https://www.tripadvisor.com/Attraction_Review-g187147-d232120-Review...",
+            "htmlFormattedUrl": "https://www.tripadvisor.com/Attraction_Review-g187147-d232120-Review...",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS84oM-GUWiyB6DOWvwFETJWdFlAMdR0gs8edrIqs61YDAA-PrU1Sah2hk&s",
+                        "width": "177",
+                        "height": "284"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "twitter:app:url:iphone": "tripadvisor://www.tripadvisor.com/Attraction_Review-g187147-d232120-Reviews-Grand_Mosque_Of_Paris-Paris_Ile_de_France.html?m=33762",
+                        "apple-itunes-app": "app-id=-1",
+                        "og:image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/d2/95/f7/photo5jpg.jpg?w=1200&h=1200&s=1",
+                        "theme-color": "#00eb5b",
+                        "og:type": "website",
+                        "og:image:width": "750",
+                        "og:site_name": "Tripadvisor",
+                        "al:ios:app_name": "TripAdvisor",
+                        "twitter:widgets:csp": "on",
+                        "twitter:app:url:ipad": "tripadvisor://www.tripadvisor.com/Attraction_Review-g187147-d232120-Reviews-Grand_Mosque_Of_Paris-Paris_Ile_de_France.html?m=33762",
+                        "og:title": "Grand Mosque Of Paris",
+                        "twitter:app:id:ipad": "284876795",
+                        "og:image:height": "1200",
+                        "twitter:app:id:iphone": "284876795",
+                        "al:ios:url": "tripadvisor://www.tripadvisor.com/Attraction_Review-g187147-d232120-Reviews-Grand_Mosque_Of_Paris-Paris_Ile_de_France.html?m=33762",
+                        "fb:pages": "5863091683",
+                        "al:ios:app_store_id": "284876795",
+                        "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+                        "og:locale": "en-US",
+                        "og:url": "https://www.tripadvisor.com/Attraction_Review-g187147-d232120-Reviews-Grand_Mosque_Of_Paris-Paris_Ile_de_France.html",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/d2/95/f7/photo5jpg.jpg?w=1200&h=1200&s=1"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "No Shia mosque near me : r/shia",
+            "htmlTitle": "No Shia <b>mosque near me</b> : r/shia",
+            "link": "https://www.reddit.com/r/shia/comments/1gkkb3g/no_shia_mosque_near_me/",
+            "displayLink": "www.reddit.com",
+            "snippet": "Nov 5, 2024 ... Hello everyone. I would like to revert. I currently have no religion but was baptized Eastern Orthodox. I have no Shia mosques near me.",
+            "htmlSnippet": "Nov 5, 2024 <b>...</b> Hello everyone. I would like to revert. I currently have no religion but was baptized Eastern Orthodox. I have no Shia <b>mosques near me</b>.",
+            "formattedUrl": "https://www.reddit.com/r/shia/comments/.../no_shia_mosque_near_me/",
+            "htmlFormattedUrl": "https://www.reddit.com/r/shia/comments/.../no_shia_<b>mosque</b>_<b>near</b>_<b>me</b>/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://share.redd.it/preview/post/1gkkb3g",
+                        "theme-color": "#000000",
+                        "og:image:width": "1200",
+                        "og:type": "website",
+                        "og:image:alt": "An image containing a preview of the post",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "r/shia on Reddit: No Shia mosque near me",
+                        "og:site_name": "Reddit",
+                        "og:title": "r/shia on Reddit: No Shia mosque near me",
+                        "og:image:height": "630",
+                        "msapplication-navbutton-color": "#000000",
+                        "og:description": "Posted by u/Cardboardtube97 - 41 votes and 14 comments",
+                        "twitter:image": "https://share.redd.it/preview/post/1gkkb3g",
+                        "apple-mobile-web-app-status-bar-style": "black",
+                        "twitter:site": "@reddit",
+                        "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+                        "apple-mobile-web-app-capable": "yes",
+                        "og:ttl": "600",
+                        "og:url": "https://www.reddit.com/r/shia/comments/1gkkb3g/no_shia_mosque_near_me/?seeker-session=true"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Find a Mosque Near Me - Islamic Center Lexington MA | MACCLM ...",
+            "htmlTitle": "Find a <b>Mosque Near Me</b> - Islamic Center Lexington MA | MACCLM ...",
+            "link": "https://www.macclm.info/find-mosque/",
+            "displayLink": "www.macclm.info",
+            "snippet": "Are you searching for “mosque near me” in the Greater Boston area? Muslim American Community Center of Lexington (MACCLM) may be exactly what you're looking for ...",
+            "htmlSnippet": "Are you searching for “<b>mosque near me</b>” in the Greater Boston area? Muslim American Community Center of Lexington (MACCLM) may be exactly what you&#39;re looking for&nbsp;...",
+            "formattedUrl": "https://www.macclm.info/find-mosque/",
+            "htmlFormattedUrl": "https://www.macclm.info/find-<b>mosque</b>/",
+            "pagemap": {
+                "metatags": [
+                    {
+                        "og:image": "https://www.macclm.info/assets/images/logo.png",
+                        "og:type": "website",
+                        "og:image:width": "1200",
+                        "og:image:alt": "MACCLM Logo",
+                        "twitter:card": "summary_large_image",
+                        "twitter:title": "Find a Mosque Near Me - Islamic Center Lexington MA | MACCLM",
+                        "og:site_name": "MACCLM",
+                        "author": "MACCLM",
+                        "og:title": "Find a Mosque Near Me - Islamic Center Lexington MA | MACCLM",
+                        "og:image:height": "630",
+                        "og:image:type": "image/png",
+                        "og:description": "Looking for a mosque near you? MACCLM in Lexington, MA serves Cambridge, Waltham, Arlington, Newton, Belmont, and surrounding areas. Prayer times, Islamic ed...",
+                        "twitter:creator": "@macclm",
+                        "twitter:image": "https://www.macclm.info/assets/images/logo.png",
+                        "twitter:image:alt": "MACCLM Logo",
+                        "twitter:site": "@macclm",
+                        "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+                        "twitter:description": "Looking for a mosque near you? MACCLM in Lexington, MA serves Cambridge, Waltham, Arlington, Newton, Belmont, and surrounding areas. Prayer times, Islamic ed...",
+                        "og:locale": "en_US",
+                        "og:url": "https://www.macclm.info/find-mosque/"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Central Illinois Mosque & Islamic Center: CIMIC",
+            "htmlTitle": "Central Illinois <b>Mosque</b> &amp; Islamic Center: CIMIC",
+            "link": "https://www.cimic.org/",
+            "displayLink": "www.cimic.org",
+            "snippet": "Peace be upon you as well as God's mercy and blessings. Our doors are open for God's creation to come join us and serve humanity.",
+            "htmlSnippet": "Peace be upon you as well as God&#39;s mercy and blessings. Our doors are open for God&#39;s creation to come join us and serve humanity.",
+            "formattedUrl": "https://www.cimic.org/",
+            "htmlFormattedUrl": "https://www.cimic.org/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbkvyjgc9jt70nd-kfDLK1m635L8FWGkL_bydw0sSg88qxqLbr4XG_FDlq&s",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "viewport": "width=device-width, initial-scale=1",
+                        "msapplication-tileimage": "https://www.cimic.org/wp-content/uploads/2020/03/cropped-blue-square-favicon-270x270.jpg"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.cimic.org/wp-content/uploads/2020/04/ramadan-broadcast.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "TOP 10 BEST Masjid Near Me in Manhattan, NY - Updated 2025 ...",
+            "htmlTitle": "TOP 10 BEST <b>Masjid Near Me</b> in Manhattan, NY - Updated 2025 ...",
+            "link": "https://www.yelp.com/search?find_desc=Masjid+Near+Me&find_loc=Manhattan%2C+NY",
+            "displayLink": "www.yelp.com",
+            "snippet": "Best Masjid Near Me in Manhattan, NY · 1. Islamic Society of Mid Manhattan · 2. Masjid Hazrati Abu Bakr Siddique · 3. Masjid Manhattan · 4. Masjid At-Taqwa · 5.",
+            "htmlSnippet": "Best <b>Masjid Near Me</b> in Manhattan, NY &middot; 1. Islamic Society of Mid Manhattan &middot; 2. Masjid Hazrati Abu Bakr Siddique &middot; 3. Masjid Manhattan &middot; 4. Masjid At-Taqwa &middot; 5.",
+            "formattedUrl": "https://www.yelp.com/search?find_desc=Masjid+Near+Me&find_loc...",
+            "htmlFormattedUrl": "https://www.yelp.com/search?find_desc=Masjid+<b>Near</b>+<b>Me</b>&amp;find_loc...",
+            "pagemap": {
+                "SearchResultsPage": [
+                    {}
+                ],
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM3vsgBMjQpn46PQXgM0PA2-sLvD4dfdYDRy-JG7iVQOlX9SbRA6sHqn0&s",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://s3-media0.fl.yelpcdn.com/assets/srv0/yelp_large_assets/a8d26394324f/assets/img/seo_metadata/yelp_og_image.png",
+                        "og:type": "website",
+                        "og:image:width": "1920",
+                        "og:site_name": "Yelp",
+                        "al:ios:app_name": "Yelp",
+                        "og:title": "TOP 10 BEST Masjid Near Me in Manhattan, NY - Updated 2025 - Yelp",
+                        "og:image:height": "1080",
+                        "bingbot": "noarchive",
+                        "al:ios:url": "https://www.yelp.com/search?find_desc=Masjid+Near+Me&find_loc=Manhattan%2C+NY&utm_campaign=search&utm_medium=organic&utm_source=apple",
+                        "og:description": "Top 10 Best Masjid Near Me in Manhattan, NY - Last Updated August 2025 - Yelp - Islamic Society of Mid Manhattan, Masjid Hazrati Abu Bakr Siddique, Masjid Manhattan, Masjid At-Taqwa, Islamic Cultural Center of New York, Islamic Center At New York University, Islamic Council of America, Al-Iman Mosque, Dergah Al Farah, Muslim Education and Converts Center of America, Masjid Al-Hikmah, Islamic Center of Richmond Hill, Masjid Al-Farooq, Masjid Al Abidin, Masjid Al Salam, Brooklyn Islamic Center, St. Patrick's Cathedral, Ahlul Bayt Mosque, St. Bartholomew's Church, Masjid El Ber of Astoria, Masjid Eesa Ibn Maryam, Omar Mosque, Masjid and Islamic Center of Ridgewood, Masjid Ahlul Qur’aan wa Sunnah , Assafa Islamic Center, Saint Thomas Church, Sunnyside Woodside Jame Masjid, Alamin Jame Masjid, Aun Nur Islamic Center, Moslem Mosque, Bahai Int'l Community, Masjid-Al Aman, Jamaica Muslim Center - Masjid Al-Mamoor, Belmont IslamicCenter, Darus Salaam Masjid, Masjid Saaliheen, NIA Masjid & Community Center, Greek Ort",
+                        "al:ios:app_store_id": "284910350",
+                        "fb:app_id": "97534753161",
+                        "viewport": "initial-scale=1",
+                        "traceparent": "00-c35eedf18973f08363d10e00ecb770ac-994e0703a98a05ee-01",
+                        "og:ttl": "2419200",
+                        "og:url": "https://m.yelp.com/search?find_desc=Masjid+Near+Me&find_loc=Manhattan%2C+NY",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s3-media0.fl.yelpcdn.com/assets/srv0/yelp_large_assets/a8d26394324f/assets/img/seo_metadata/yelp_og_image.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Find Mosques Near You (Masjid) | Halal Trip",
+            "htmlTitle": "Find <b>Mosques Near</b> You (<b>Masjid</b>) | Halal Trip",
+            "link": "https://www.halaltrip.com/find-mosques-near-me/",
+            "displayLink": "www.halaltrip.com",
+            "snippet": "You can find the nearest mosque to you by using the HalalTrip.com website or the HalalTrip mobile app on Android or iOS devices.",
+            "htmlSnippet": "You can find the <b>nearest mosque</b> to you by using <b>the HalalTrip.com website or the HalalTrip mobile app on Android or iOS devices</b>.",
+            "formattedUrl": "https://www.halaltrip.com/find-mosques-near-me/",
+            "htmlFormattedUrl": "https://www.halaltrip.com/find-<b>mosque</b>s-<b>near</b>-<b>me</b>/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNk32Vy3sa-TzwU92J3X6OYCKdHkgMjn9W5WI9mjtIqidv_5-4R8qRaj7d&s",
+                        "width": "303",
+                        "height": "166"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "apple-itunes-app": "app-id=680194589",
+                        "og:image": "https://www.halaltrip.com/images/take-tour-screen.png",
+                        "tmpzwad": "3z872c3e9f3a4a86247e5ef6618f244f91",
+                        "theme-color": "#67BF34",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "HalalTrip",
+                        "tmpzwv": "0.0",
+                        "twitter:url": "https://www.halaltrip.com/find-mosques-near-me/",
+                        "title": "Find Mosques Near You (Masjid) | Halal Trip",
+                        "og:description": "Find a Mosque, Masjid, Surau, Musallah near your current location. Get directions and prayer timings .",
+                        "twitter:site": "HalalTrip",
+                        "zwv": "0.0",
+                        "zwad": "3z872c3e9f3a4a86247e5ef6618f244f91",
+                        "og:type": "Website",
+                        "twitter:title": "Find Mosques Near You (Masjid) | Halal Trip",
+                        "tmpzwauid": "3z8ec9edf496cb8c810d6bb76570130bf8",
+                        "author": "HalalTrip",
+                        "zwauid": "3z8ec9edf496cb8c810d6bb76570130bf8",
+                        "og:title": "Find Mosques Near You (Masjid) | Halal Trip",
+                        "twitter:image:src": "https://www.halaltrip.com/images/take-tour-screen.png",
+                        "zwaid": "3zc06c625d1e24a94b4f36a35e7bf9ebba",
+                        "fb:app_id": "260016146528",
+                        "viewport": "width=device-width, initial-scale=1, maximum-scale=2",
+                        "tmpzwaid": "3zc06c625d1e24a94b4f36a35e7bf9ebba",
+                        "twitter:description": "Find a Mosque, Masjid, Surau, Musallah near your current location. Get directions and prayer timings .",
+                        "zwaod": "3z40464ed3d64e712d7939e38d92e0eaf8ef1bd219a370dd5f71d0441017d37897",
+                        "og:url": "https://www.halaltrip.com/find-mosques-near-me/",
+                        "google-play-app": "app-id=com.halaltrip.app",
+                        "tmpzwaod": "3z40464ed3d64e712d7939e38d92e0eaf8ef1bd219a370dd5f71d0441017d37897"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.halaltrip.com/images/take-tour-screen.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Google Maps",
+            "htmlTitle": "Google Maps",
+            "link": "https://maps.google.com/",
+            "displayLink": "maps.google.com",
+            "snippet": "Find local businesses, view maps and get driving directions in Google Maps.",
+            "htmlSnippet": "Find local businesses, view maps and get driving directions in Google Maps.",
+            "formattedUrl": "https://maps.google.com/",
+            "htmlFormattedUrl": "https://maps.google.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK9HJCO94e0_qcWvSL4ZtYFdhKQ5kU4EgcPAidBEAs_UoQkyJx7TSluTTA&s",
+                        "width": "225",
+                        "height": "225"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "referrer": "origin",
+                        "og:image": "//www.google.com/maps/about/images/icons/maps_512dp.png",
+                        "twitter:card": "summary",
+                        "theme-color": "#ffffff",
+                        "og:image:width": "512",
+                        "og:site_name": "Google Maps",
+                        "viewport": "initial-scale=1.0, user-scalable=no",
+                        "og:title": "Google Maps",
+                        "og:image:height": "512",
+                        "google": "notranslate",
+                        "og:description": "Find local businesses, view maps and get driving directions in Google Maps."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://www.google.com/maps/about/images/icons/maps_512dp.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "TOP 10 BEST Mosques in Paris, France - Updated 2025 - Yelp",
+            "htmlTitle": "TOP 10 BEST <b>Mosques</b> in Paris, France - Updated 2025 - Yelp",
+            "link": "https://www.yelp.com/search?find_desc=Mosques&find_loc=Paris",
+            "displayLink": "www.yelp.com",
+            "snippet": "Masjid - Mosques near me - Paris, Paris. 2. Masjid. 0.0. Mosques ... \"The Grande Mosque Tea House was honestly a surprise to me. You see my first weekend in ...",
+            "htmlSnippet": "Masjid - <b>Mosques near me</b> - Paris, Paris. 2. Masjid. 0.0. Mosques ... &quot;The Grande Mosque Tea House was honestly a surprise to me. You see my first weekend in&nbsp;...",
+            "formattedUrl": "https://www.yelp.com/search?find_desc=Mosques&find_loc=Paris",
+            "htmlFormattedUrl": "https://www.yelp.com/search?find_desc=<b>Mosque</b>s&amp;find_loc=Paris",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM3vsgBMjQpn46PQXgM0PA2-sLvD4dfdYDRy-JG7iVQOlX9SbRA6sHqn0&s",
+                        "width": "300",
+                        "height": "168"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://s3-media0.fl.yelpcdn.com/assets/srv0/yelp_large_assets/a8d26394324f/assets/img/seo_metadata/yelp_og_image.png",
+                        "og:type": "website",
+                        "og:image:width": "1920",
+                        "og:site_name": "Yelp",
+                        "al:ios:app_name": "Yelp",
+                        "og:title": "TOP 10 BEST Mosques in Paris, France - Updated 2025 - Yelp",
+                        "og:image:height": "1080",
+                        "bingbot": "noarchive",
+                        "al:ios:url": "https://www.yelp.com/search?find_desc=Mosques&find_loc=Paris&utm_campaign=search&utm_medium=organic&utm_source=apple",
+                        "og:description": "Top 10 Best Mosques in Paris - Last Updated August 2025 - Yelp - Grande Mosquée de Paris, Masjid, La Mosquée, Centre Culturel Algérien, Au P'tit Cahoua, Centre Cultuel et Culturel Musulman, Mosquée de Cachan, Mosquée Ennour, Association Cultuelle Al Hidayah, Mosquée Foi et Unicité, Mosquée Fraternité - ATF, Associations des Musulmans d'Inspiration Sounnite en France",
+                        "al:ios:app_store_id": "284910350",
+                        "fb:app_id": "97534753161",
+                        "viewport": "initial-scale=1",
+                        "traceparent": "00-6707b7428f2fb50a812b58b01ea55fd7-55e950ad5d612a8d-01",
+                        "og:ttl": "2419200",
+                        "og:url": "https://m.yelp.com/search?find_desc=Mosques&find_loc=Paris",
+                        "format-detection": "telephone=no"
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://s3-media0.fl.yelpcdn.com/assets/srv0/yelp_large_assets/a8d26394324f/assets/img/seo_metadata/yelp_og_image.png"
+                    }
+                ]
+            }
+        },
+        {
+            "kind": "customsearch#result",
+            "title": "Tempe Mosque: Home",
+            "htmlTitle": "Tempe <b>Mosque</b>: Home",
+            "link": "https://tempemosque.com/",
+            "displayLink": "tempemosque.com",
+            "snippet": "Prayer Times ; PRAYER TIMINGS ; Sunday, Sep 21 | Rabi Al Awwal-29. Sunrise, 6:15 AM, |, Sunset, 6:25 PM ; ATHAN, IQAMAH ; Fajr, 4:52 AM, 5:30 AM.",
+            "htmlSnippet": "Prayer Times ; PRAYER TIMINGS ; Sunday, Sep 21 | Rabi Al Awwal-29. Sunrise, 6:15 AM, |, Sunset, 6:25 PM ; ATHAN, IQAMAH ; Fajr, 4:52 AM, 5:30 AM.",
+            "formattedUrl": "https://tempemosque.com/",
+            "htmlFormattedUrl": "https://tempe<b>mosque</b>.com/",
+            "pagemap": {
+                "cse_thumbnail": [
+                    {
+                        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLukbmUFlX5-5t2i5wXMe85D6khHyN-E-JJpHIPDdlr2mOGQZEEiw8-3o&s",
+                        "width": "201",
+                        "height": "251"
+                    }
+                ],
+                "metatags": [
+                    {
+                        "og:image": "https://tempemosque.com/wp-content/uploads/2025/09/547976881_18319186117242095_8785611298758599935_n.jpg",
+                        "og:type": "website",
+                        "twitter:card": "summary_large_image",
+                        "og:site_name": "Tempe Mosque",
+                        "og:title": "Home - Tempe Mosque",
+                        "msapplication-tileimage": "https://tempemosque.com/wp-content/uploads/2018/11/cropped-ICC_Logo_nobackground-270x270.png",
+                        "og:description": "Prayer Times First Jummah 12:30 – 1:00 PMSecond Jummah 1:30 – 2:00 PMThird Jummah 2:40 – 3:00 PM OFFICE HOURS Monday – Friday:  9:00 am – 6:00 pm Saturday: 10:00 am – 4:00 pm Sunday: Closed Noor Academy Best Student fund AZ State Tax Credit Donation Donate Directly to Noor Academy Schedule an appointment with […]",
+                        "article:publisher": "https://www.facebook.com/TempeMasjid/",
+                        "twitter:site": "@tempemasjid",
+                        "article:modified_time": "2025-09-19T00:35:03+00:00",
+                        "viewport": "width=device-width, initial-scale=1",
+                        "og:locale": "en_US",
+                        "og:url": "https://tempemosque.com/"
+                    }
+                ],
+                "creativework": [
+                    {
+                        "text": "Prayer Times PRAYER TIMINGS Sunday, Sep 21 | Rabi Al Awwal-29 6:15 AM | 6:25 PM ATHANIQAMAHFajr4:52 AM5:30 AMDhuhr12:21 PM1:00 PMAsr3:48 PM4:45 PMMaghrib6:25 PM6:32 PMIsha7:34 PM8:00 PMJumu'ah12:30..."
+                    }
+                ],
+                "cse_image": [
+                    {
+                        "src": "https://tempemosque.com/wp-content/uploads/2025/09/547976881_18319186117242095_8785611298758599935_n.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+}
